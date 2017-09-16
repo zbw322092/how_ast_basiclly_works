@@ -1,0 +1,8 @@
+{
+  "name": "how_ast_basiclly_works",
+  "version": "1.0.0",
+  "description": "AST Basic",
+  "main": "index.js",
+  "author": "Bowen Zhong <bz4e14@soton.ac.uk>",
+  "license": "MIT"
+}
