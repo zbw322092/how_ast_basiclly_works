@@ -6,6 +6,10 @@
   "author": "Bowen Zhong <bz4e14@soton.ac.uk>",
   "license": "MIT",
   "dependencies": {
-    "detective": "^4.5.0"
+    "ast-module-types": "^2.3.2",
+    "detective": "^4.5.0",
+    "esprima": "^4.0.0",
+    "node-source-walk": "^3.3.0",
+    "recast": "^0.12.6"
   }
 }
